@@ -16,8 +16,4 @@ This project demonstrates how to build a *RESTful Web Service* using *Spring Boo
 - *Framework:* Spring Boot
 - *Database:* MySQL
 - *ORM:* Hibernate / JPA
-- *Build Tool:* Maven
-
----
-
-## 📂 Project Structure
+- *Build Tool:Maven
